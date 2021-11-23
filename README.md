@@ -39,12 +39,12 @@ surface plane
 https://nl-nl.duolingo.com/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+login pagina  
+<img src="images/loginw1.jpg" width="375px" alt="omschrijving van de pagina duolingo">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+homepagina  
+<img src="images/homew1.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
